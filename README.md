@@ -23,3 +23,6 @@ This plugin supports all major browsers that support the canvas element. With ex
 
 # Version
 Version 1.1
+
+# Licence
+See LICENSE.md
