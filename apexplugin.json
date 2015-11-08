@@ -1,0 +1,33 @@
+{
+  "name" : "apex-easypiechart",
+  "version" : "1.1",
+  "description" : "It´s useful to render simple pie charts for single values",
+  "keywords" : ["charts", "pie", "iranapex", "mahdiahmadi"],
+  "homepage" : "https://github.com/iranapex/Apex-EasyPieChart",
+  "bugs" : {
+    "url" : "https://github.com/iranapex/Apex-EasyPieChart/issues",
+    "email" : "ahmadi@iranapex.ir"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Mahdi Ahmadi",
+    "email" : "ahmadi@iranapex.ir",
+    "url" : "http://www.iranapex.ir"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/iranapex/Apex-EasyPieChart.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "COM.AHMADI.IRANAPEX.EASYPIECHART",
+        "type" : "Region",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=43322:2",
+        "previewImage" : "https://raw.githubusercontent.com/iranapex/Apex-EasyPieChart/easypiechart.PNG"
+      }
+    }
+  }
+}
