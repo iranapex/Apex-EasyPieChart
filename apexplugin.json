@@ -1,5 +1,5 @@
 {
-  "name" : "apex-easypiechart",
+  "name" : "iranapex-easypiechart",
   "version" : "1.1",
   "description" : "It´s useful to render simple pie charts for single values",
   "keywords" : ["charts", "pie", "iranapex", "mahdiahmadi"],
@@ -21,7 +21,7 @@
   "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["5.0.0"],
+      "versions" : ["4.2.0","5.0.2"],
       "plugin" : {
         "internalName" : "COM.AHMADI.IRANAPEX.EASYPIECHART",
         "type" : "Region",
