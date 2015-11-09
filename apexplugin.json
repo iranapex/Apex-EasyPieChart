@@ -24,7 +24,7 @@
       "versions" : ["4.2.0","5.0.2"],
       "plugin" : {
         "internalName" : "COM.AHMADI.IRANAPEX.EASYPIECHART",
-        "type" : "Region",
+        "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=43322:2",
         "previewImage" : "https://raw.githubusercontent.com/iranapex/Apex-EasyPieChart/master/easypiechart.PNG"
       }
